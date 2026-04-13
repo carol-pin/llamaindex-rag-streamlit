@@ -1,0 +1,6 @@
+streamlit
+llama-index
+llama-index-llms-google-genai 
+llama-index-embeddings-google-genai 
+google-genai
+python-dotenv
