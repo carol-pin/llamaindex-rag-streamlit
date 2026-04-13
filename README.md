@@ -29,6 +29,8 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LlamaIndex,
    GEMINI_API_KEY=your_api_key_here
    ```
 
+4. Create a folder named `data/`
+
 ## Usage
 
 1. Place your documents (PDFs, text files, etc.) in the `data/` folder.
@@ -38,7 +40,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LlamaIndex,
    streamlit run chat.py
    ```
 
-3. Open your browser to the provided URL (usually `http://localhost:8501`).
+3. Open your browser to the provided URL.
 
 4. Start chatting with your documents!
 
