@@ -25,6 +25,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LlamaIndex,
    ```
 
 3. Activate the virtual environment:
+
    for macOS / Linux
    ```
    source .venv/bin/activate  
