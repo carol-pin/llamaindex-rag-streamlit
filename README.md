@@ -30,7 +30,7 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit, LlamaIndex,
    ```
    source .venv/bin/activate  
    ```
-   for Windows/Linux
+   for Windows
    ```
    .venv\Scripts\activate
    ```
